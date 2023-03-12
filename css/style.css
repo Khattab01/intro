@@ -30,7 +30,7 @@ p{
        position: absolute;
        left:50%;
        margin-left:-100px;
-       top:50%;
+       top:70%;
 }
 a{
   color: white;
@@ -43,7 +43,7 @@ a{
   align-items: center;
   position: absolute;
   left: 50%;
-  margin-left: -50px;
+  margin-left: -40px;
 
 }
 mark{
