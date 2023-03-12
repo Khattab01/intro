@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo&display=swap');
+body{
+  background-image: url("https://scontent.xx.fbcdn.net/v/t1.15752-9/335819969_942322496902507_2572740594359304397_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=aee45a&_nc_ohc=GKDBPDk4G1MAX9ilfev&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdS2pas5hoYaP2npGovDU3dLQgX5OwYq-Cw7cAydqbYuGQ&oe=6435A8FC");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0;
+  margin: 0px 20px;
+  text-align: center;
+  color: white;
+  font-family: cairo;
+  text-shadow: 
+  0px 5px 3px #000000,
+   2px 2px #000000,
+    -2px -2px #000000,
+     0px 2px #000000,
+     2px 0px #000000,
+     -2px 0px #000000,
+     0px -2px #000000;
+}
+h1{
+   color: coral;
+}
+p{
+  padding-top: 20px;
+}
+.btn{
+      width: 200px;
+      height: 100px;
+       position: absolute;
+       left:50%;
+       margin-left:-100px;
+       top:70%;
+}
+a{
+  color: white;
+  text-decoration: none;
+  padding: 2px 30px;
+  background-color: #3C2A21;
+  border: solid #1A120B 3px;
+  border-radius: 10px;
+  box-shadow: 0px 3px #000000;
+  align-items: center;
+  position: absolute;
+  left: 50%;
+  margin-left: -30px;
+
+}
+mark{
+     margin:0px 5px;
+     text-shadow: none;
+     width:10px;
+     background-color: coral;
+     
+}
+a:hover{
+        color:coral;
+        top:3px;
+        box-shadow: 0px 0px #000000;
+}
+
+@media(min-width:800px){
+                         body{
+                             background-image: url("https://scontent.xx.fbcdn.net/v/t1.15752-9/335643454_744153587249594_8358404896082008428_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aee45a&_nc_ohc=3rVtc-N_nWAAX-QTXjv&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRothcu-bYRJOuV9VEBG9HaDiZdBMawnsMM_ghQq-zwlQ&oe=6435BE1C");
+                             margin: 0px 200px;
+                         }
+                         h1{
+                          color: coral;
+                         }
+                         a{
+                              padding:3px 70px;
+                              position: absolute;
+                              left: 50%;
+                              margin-left: -80px;
+                              
+                         }
+}
