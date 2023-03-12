@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Cairo&display=swap');
 body{
-  background-image: url("https://scontent.xx.fbcdn.net/v/t1.15752-9/335819969_942322496902507_2572740594359304397_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=aee45a&_nc_ohc=GKDBPDk4G1MAX9ilfev&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdS2pas5hoYaP2npGovDU3dLQgX5OwYq-Cw7cAydqbYuGQ&oe=6435A8FC");
+  background-color:#3C2A21;
+  background-image: url("https://scontent.xx.fbcdn.net/v/t1.15752-9/333552827_543344807913635_6279009790780269573_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aee45a&_nc_ohc=jdiFjav8H10AX9ilRCu&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTUGdrZUdeoKUMPscTR1-l8mxJm81mu3fAPWHJ426SdJw&oe=6435A910");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size:cover;
   padding: 0;
   margin: 0px 20px;
   text-align: center;
@@ -60,7 +61,7 @@ a:hover{
 
 @media(min-width:800px){
                          body{
-                             background-image: url("https://scontent.xx.fbcdn.net/v/t1.15752-9/335643454_744153587249594_8358404896082008428_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aee45a&_nc_ohc=3rVtc-N_nWAAX-QTXjv&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRothcu-bYRJOuV9VEBG9HaDiZdBMawnsMM_ghQq-zwlQ&oe=6435BE1C");
+                             background-image: url("https://scontent.xx.fbcdn.net/v/t1.15752-9/335766592_197629262867908_421940977458099983_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=aee45a&_nc_ohc=YO_YSnUr1HAAX8RnF9t&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSknm1HwVbgzXt4s-1vrwts_xN4rGEl3m0HXwuuDny_xA&oe=6435AD74");
                              margin: 0px 200px;
                          }
                          h1{
